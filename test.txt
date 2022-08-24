@@ -11,3 +11,5 @@ git add . (for all)
 pour sauvegarder les modifs 
 git commit -m "first commit"
 
+
+c
