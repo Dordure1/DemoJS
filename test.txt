@@ -1,0 +1,13 @@
+Pour créer dossier git
+créer dossier --> a la source : 
+clique droit dans dossier et ouvrir avec GIT GUI 
+
+dans la fenêtre GIT, inscrit : 
+"git init" 
+une fois le dossier ouvert dans VSC on voit des U (untrackted) à coter des dossier. Pour les associer à notre environnement git, inscrire : 
+
+git add . (for all)
+
+pour sauvegarder les modifs 
+git commit -m "first commit"
+
